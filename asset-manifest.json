@@ -1,12 +1,11 @@
 {
   "files": {
-    "main.css": "/static/css/main.e20d1f98.css",
-    "main.js": "/static/js/main.b86bb575.js",
-    "static/media/genshin.ttf": "/static/media/genshin.d489661f57357490ce76.ttf",
+    "main.css": "/static/css/main.8b8a0772.css",
+    "main.js": "/static/js/main.0733198a.js",
     "index.html": "/index.html"
   },
   "entrypoints": [
-    "static/css/main.e20d1f98.css",
-    "static/js/main.b86bb575.js"
+    "static/css/main.8b8a0772.css",
+    "static/js/main.0733198a.js"
   ]
 }
