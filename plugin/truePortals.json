@@ -1,0 +1,35 @@
+[
+    {
+        "version": "1.0.0",
+        "url": "https://github.com/TRUEC0DER/truePortals/releases/download/1.0.0/truePortals-1.0.0.jar",
+        "info": [
+            "First release"
+        ]
+    },
+    {
+        "version": "1.0.1",
+        "url": "https://github.com/TRUEC0DER/truePortals/releases/download/1.0.1/truePortals-1.0.1.jar",
+        "info": [
+            "Little version bugfix"
+        ]
+    },
+    {
+        "version": "1.1.0",
+        "url": "https://github.com/TRUEC0DER/truePortals/releases/download/1.1.0/truePortals-1.1.0.jar",
+        "info": [
+            "Full command system refactoring",
+            "Added change portal destinations",
+            "Changed permissions and added some new",
+            "Plugin architecture refactoring",
+            "Changed minimal server version from 1.12 to 1.13",
+            "Refactoring settings system"
+        ]
+    },
+    {
+        "version": "1.1.1",
+        "url": "https://github.com/TRUEC0DER/truePortals/releases/download/1.1.1/truePortals-1.1.1.jar",
+        "info": [
+            "Corrected dependencies so that the plugin works on the latest versions"
+        ]
+    }
+]
