@@ -3,14 +3,16 @@
         "version": "1.0.0",
         "url": "https://github.com/TRUEC0DER/truePortals/releases/download/1.0.0/truePortals-1.0.0.jar",
         "info": [
-            "<#A55AE3>| » <white>First release"
+            "<#A55AE3>| » <white>First release",
+            "<#A55AE3>| » "
         ]
     },
     {
         "version": "1.0.1",
         "url": "https://github.com/TRUEC0DER/truePortals/releases/download/1.0.1/truePortals-1.0.1.jar",
         "info": [
-            "<#A55AE3>| » <white>Little version bugfix"
+            "<#A55AE3>| » <white>Little version bugfix",
+            "<#A55AE3>| » "
         ]
     },
     {
@@ -22,14 +24,16 @@
             "<#A55AE3>| » <white>Changed permissions and added some new",
             "<#A55AE3>| » <white>Plugin architecture refactoring",
             "<#A55AE3>| » <white>Changed minimal server version from 1.12 to 1.13",
-            "<#A55AE3>| » <white>Refactoring settings system"
+            "<#A55AE3>| » <white>Refactoring settings system",
+            "<#A55AE3>| » "
         ]
     },
     {
         "version": "1.1.1",
         "url": "https://github.com/TRUEC0DER/truePortals/releases/download/1.1.1/truePortals-1.1.1.jar",
         "info": [
-            "<#A55AE3>| » <white>Corrected dependencies so that the plugin works on the latest versions"
+            "<#A55AE3>| » <white>Corrected dependencies so that the plugin works on the latest versions",
+            "<#A55AE3>| » "
         ]
     }
 ]
