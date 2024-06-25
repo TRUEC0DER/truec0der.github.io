@@ -41,7 +41,7 @@
             "Full config system refactoring",
             "Full plugin architecture refactoring",
             "Added plugin update system (Check updates and auto update)",
-            "Removed %prefix% placeholder from locale",
+            "Removed `%prefix%` placeholder from locale",
             "Added disabling the ability to activate portals to end or nether"
         ]
     }
