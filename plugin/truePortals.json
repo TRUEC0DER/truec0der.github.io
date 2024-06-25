@@ -31,5 +31,18 @@
         "info": [
             "Corrected dependencies so that the plugin works on the latest versions"
         ]
+    },
+        {
+        "version": "1.2.0",
+        "url": "https://github.com/TRUEC0DER/truePortals/releases/download/1.2.0/truePortals-1.2.0.jar",
+        "info": [
+            "Renamed locale files from `messages_%` to `lang_%`",
+            "Increased Java version from 9 to 11",
+            "Full config system refactoring",
+            "Full plugin architecture refactoring",
+            "Added plugin update system (Check updates and auto update)",
+            "Removed %prefix% placeholder from locale",
+            "Added disabling the ability to activate portals to end or nether"
+        ]
     }
 ]
