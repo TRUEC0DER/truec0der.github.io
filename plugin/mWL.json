@@ -1,0 +1,74 @@
+[
+    {
+        "version": "1.0.0",
+        "url": "https://github.com/TRUEC0DER/mWL/releases/download/1.0.0/mWL-1.0.0.jar",
+        "info": [
+            "Not changes"
+        ]
+    },
+    {
+        "version": "1.1.0",
+        "url": "https://github.com/TRUEC0DER/mWL/releases/download/1.1.0/mWL-1.1.0.jar",
+        "info": [
+            "Changed the code architecture to dependency injection",
+            "Added placeholder %prefix% to insert a prefix wherever you want!"
+        ]
+    },
+    {
+        "version": "1.2.0",
+        "url": "https://github.com/TRUEC0DER/mWL/releases/download/1.2.0/mWL-1.2.0.jar",
+        "info": [
+            "Added YAML database support",
+            "Minor code refactoring"
+        ]
+    },
+    {
+        "version": "1.3.0",
+        "url": "https://github.com/TRUEC0DER/mWL/releases/download/1.3.0/mWL-1.3.0.jar",
+        "info": [
+            "Now /mwl remove command has tab completion",
+            "/mwl reload now completely reload the plugin",
+            "Added %whitelist_count% placeholder to /mwl list command (Display players count in whitelist)"
+        ]
+    },
+    {
+        "version": "1.3.1",
+        "url": "https://github.com/TRUEC0DER/mWL/releases/download/1.3.1/mWL-1.3.1.jar",
+        "info": [
+            "Fixed out of bound exception"
+        ]
+    },
+    {
+        "version": "1.4.0",
+        "url": "https://github.com/TRUEC0DER/mWL/releases/download/1.4.0/mWL-1.4.0.jar",
+        "info": [
+            "Fixed /mwl reload command",
+            "Add nickname sensitive case option",
+            "Little code improvements"
+        ]
+    },
+    {
+        "version": "1.5.0",
+        "url": "https://github.com/TRUEC0DER/mWL/releases/download/1.5.0/mWL-1.5.0.jar",
+        "info": [
+            "Added asynchronous work with the database",
+            "Added /mwl addtemp command",
+            "Changed YAML database structure",
+            "Added metrics"
+        ]
+    },
+    {
+        "version": "2.0.0",
+        "url": "https://github.com/TRUEC0DER/mWL/releases/download/2.0.0/mWL-2.0.0.jar",
+        "info": [
+            "Full command system rework",
+            "Full config system rework",
+            "Full database rework",
+            "Full plugin rework",
+            "Change database and configs structure",
+            "Added update system",
+            "Added UUID-based mode",
+            "Enhanced temporaty players add in whitelist"
+        ]
+    }
+]
