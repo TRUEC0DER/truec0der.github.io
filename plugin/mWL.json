@@ -1,14 +1,14 @@
 [
     {
         "version": "1.0.0",
-        "url": "https://github.com/TRUEC0DER/mWL/releases/download/1.0.0/mWL-1.0.0.jar",
+        "url": "https://github.com/TRUEC0DER/mWL/releases/download/release-1.0.0/mWL-1.0.0.jar",
         "info": [
             "Not changes"
         ]
     },
     {
         "version": "1.1.0",
-        "url": "https://github.com/TRUEC0DER/mWL/releases/download/1.1.0/mWL-1.1.0.jar",
+        "url": "https://github.com/TRUEC0DER/mWL/releases/download/release-1.1.0/mWL-1.1.0.jar",
         "info": [
             "Changed the code architecture to dependency injection",
             "Added placeholder %prefix% to insert a prefix wherever you want!"
@@ -16,7 +16,7 @@
     },
     {
         "version": "1.2.0",
-        "url": "https://github.com/TRUEC0DER/mWL/releases/download/1.2.0/mWL-1.2.0.jar",
+        "url": "https://github.com/TRUEC0DER/mWL/releases/download/release-1.2.0/mWL-1.2.0.jar",
         "info": [
             "Added YAML database support",
             "Minor code refactoring"
@@ -24,7 +24,7 @@
     },
     {
         "version": "1.3.0",
-        "url": "https://github.com/TRUEC0DER/mWL/releases/download/1.3.0/mWL-1.3.0.jar",
+        "url": "https://github.com/TRUEC0DER/mWL/releases/download/release-1.3.0/mWL-1.3.0.jar",
         "info": [
             "Now /mwl remove command has tab completion",
             "/mwl reload now completely reload the plugin",
@@ -33,14 +33,14 @@
     },
     {
         "version": "1.3.1",
-        "url": "https://github.com/TRUEC0DER/mWL/releases/download/1.3.1/mWL-1.3.1.jar",
+        "url": "https://github.com/TRUEC0DER/mWL/releases/download/release-1.3.1/mWL-1.3.1.jar",
         "info": [
             "Fixed out of bound exception"
         ]
     },
     {
         "version": "1.4.0",
-        "url": "https://github.com/TRUEC0DER/mWL/releases/download/1.4.0/mWL-1.4.0.jar",
+        "url": "https://github.com/TRUEC0DER/mWL/releases/download/release-1.4.0/mWL-1.4.0.jar",
         "info": [
             "Fixed /mwl reload command",
             "Add nickname sensitive case option",
@@ -49,7 +49,7 @@
     },
     {
         "version": "1.5.0",
-        "url": "https://github.com/TRUEC0DER/mWL/releases/download/1.5.0/mWL-1.5.0.jar",
+        "url": "https://github.com/TRUEC0DER/mWL/releases/download/release-1.5.0/mWL-1.5.0.jar",
         "info": [
             "Added asynchronous work with the database",
             "Added /mwl addtemp command",
@@ -59,7 +59,7 @@
     },
     {
         "version": "2.0.0",
-        "url": "https://github.com/TRUEC0DER/mWL/releases/download/2.0.0/mWL-2.0.0.jar",
+        "url": "https://github.com/TRUEC0DER/mWL/releases/download/release-2.0.0/mWL-2.0.0.jar",
         "info": [
             "Full command system rework",
             "Full config system rework",
@@ -69,6 +69,13 @@
             "Added update system",
             "Added UUID-based mode",
             "Enhanced temporary players add in whitelist"
+        ]
+    },
+    {
+        "version": "2.0.1",
+        "url": "https://github.com/TRUEC0DER/mWL/releases/download/release-2.0.1/mWL-2.0.1.jar",
+        "info": [
+            "Added russian locale"
         ]
     }
 ]
