@@ -45,13 +45,21 @@
             "Added disabling the ability to activate portals to end or nether"
         ]
     },
-        {
+    {
         "version": "1.3.0",
         "url": "https://github.com/TRUEC0DER/truePortals/releases/download/1.3.0/truePortals-1.3.0.jar",
         "info": [
             "Added message when player tries to activate the portal with disabled activation",
             "Updated dependencies for support last versions",
             "Little code improvements"
+        ]
+    },
+    {
+        "version": "1.3.1",
+        "url": "https://github.com/TRUEC0DER/truePortals/releases/download/1.3.1/truePortals-1.3.1.jar",
+        "info": [
+            "Portal activate listener bug fix. Now plugin don't break other plugins listeners",
+            "Update dependencies versions"
         ]
     }
 ]
