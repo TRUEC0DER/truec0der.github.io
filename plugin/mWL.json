@@ -77,5 +77,20 @@
         "info": [
             "Added russian locale"
         ]
+    },
+    {
+        "version": "2.1.0",
+        "url": "https://github.com/TRUEC0DER/mWL/releases/download/release-2.1.0/mWL-2.1.0.jar",
+        "info": [
+            "Added command `/mwl settemp` for set player whitelist time",
+            "Added command `/mwl extendtemp` for extend player whitelist time",
+            "Added placeholder `%whitelist_database%` to `/mwl info` command",
+            "Added notify when player time in the whitelist is close to expire",
+            "The MongoDB database has been completely reworked",
+            "Full rework of internal config system",
+            "Fixed a bug with early kick of a player from the server",
+            "Updated all plugin dependencies",
+            "Minor optimization"
+        ]
     }
 ]
