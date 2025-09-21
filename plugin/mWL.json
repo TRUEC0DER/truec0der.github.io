@@ -92,5 +92,13 @@
             "Updated all plugin dependencies",
             "Minor optimization"
         ]
+    },
+    {
+        "version": "2.2.0",
+        "url": "https://github.com/TRUEC0DER/mWL/releases/download/release-2.2.0/mWL-2.2.0.jar",
+        "info": [
+            "The ability to manage whitelisted players by `UUID` has been implemented. You must pass the player's `UUID` instead of their nickname.",
+            "Minor code improvements"
+        ]
     }
 ]
