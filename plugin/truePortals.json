@@ -61,5 +61,12 @@
             "Portal activate listener bug fix. Now plugin don't break other plugins listeners",
             "Update dependencies versions"
         ]
+    },
+    {
+        "version": "1.3.2",
+        "url": "https://github.com/TRUEC0DER/truePortals/releases/download/1.3.2/truePortals-1.3.2.jar",
+        "info": [
+            "Dependency versions update"
+        ]
     }
 ]
